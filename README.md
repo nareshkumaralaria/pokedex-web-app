@@ -71,3 +71,12 @@ This app integrates with the [PokeAPI](https://pokeapi.co/) to fetch Pokémon da
 
 
 ## Screenshots
+
+![Home-and-Listing-Page_Desktop](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/16b67ccf-9601-4b85-a2c3-a877ad1eb7cc)
+![Details-Page_Desktop](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/48fcce90-9057-4c42-acf9-fe20acd768eb)
+![Bookmark-Page_Desktop](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/3603fcde-8e83-45ee-bef4-5c77237cfd83)
+
+![Details-Page_Mobile](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/b852047d-8d33-4f1f-a3a3-f993c9d4aca4)
+![Bookmark-Page_Mobile](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/94ab418b-c184-4e44-81d9-d8f3c380e1b3)
+![Home-and-Listing-Page_Mobile](https://github.com/nareshkumaralaria/pokedex-web-app/assets/57484597/63d69540-3841-48f5-a574-77f9888b755a)
+
